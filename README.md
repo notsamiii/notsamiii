@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Mohammed Abdul Sami!
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=true&width=600&lines=+Hey!+I+am+Sami!;🚀+Innovator+by+heart;💡;🌌+Let's+create+the+future+together!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=true&width=600&lines=+Innovator+by+heart;💡;🌌+Let's+create+the+future+together!" alt="Typing SVG">
 </p>
 
 
@@ -27,35 +27,15 @@
 
 ### 🚀 My Cosmic Toolkit
 #### 🛠 Languages & Frameworks
-<p align="center">
-  <svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .logo {
-        animation: float 5s ease-in-out infinite, drift 8s linear infinite;
-      }
-      @keyframes float {
-        0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(-20px); }
-      }
-      @keyframes drift {
-        0% { transform: translateX(0); }
-        50% { transform: translateX(30px); }
-        100% { transform: translateX(0); }
-      }
-    </style>
-    <image href="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" x="100" y="100" width="80" class="logo"/>
-    <image href="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript" x="200" y="200" width="80" class="logo"/>
-    <image href="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react" x="300" y="300" width="80" class="logo"/>
-  </svg>
-</p>
-
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+  ![Blockchain](https://img.shields.io/badge/-Blockchain-3C3C3D?style=flat-square&logo=ethereum)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-3C3C3D?style=flat-square&logo=ethereum)
-
-#### 🌐 Platforms & Tools
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+and many more!
 
 ---
 
