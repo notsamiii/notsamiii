@@ -13,7 +13,7 @@
 ### 🌌 Welcome to My Digital Universe
 
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/example/banner.gif](https://media.licdn.com/dms/image/v2/D5616AQGUB1mNP9smOw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735573232869?e=1742428800&v=beta&t=mmWYWTVU7I1lGQnnMjk3BpcUOKg5yItA3QEnvfaEL3Q)" alt="Aesthetic Banner" style="border-radius:10px;">
+  <img src="[[https://user-images.githubusercontent.com/example/banner.gif](https://media.licdn.com/dms/image/v2/D5616AQGUB1mNP9smOw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735573232869?e=1742428800&v=beta&t=mmWYWTVU7I1lGQnnMjk3BpcUOKg5yItA3QEnvfaEL3Q](https://png.pngtree.com/thumb_back/fw800/background/20231003/pngtree-aesthetic-3d-render-of-laptop-phone-headphones-and-coffee-perfect-freelance-image_13514503.png))" alt="Aesthetic Banner" style="border-radius:10px;">
 </p>
 
 ---
@@ -28,7 +28,6 @@
 ### 🚀 My Cosmic Toolkit
 #### 🛠 Languages & Frameworks
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-  ![Blockchain](https://img.shields.io/badge/-Blockchain-3C3C3D?style=flat-square&logo=ethereum)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-3C3C3D?style=flat-square&logo=ethereum)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
