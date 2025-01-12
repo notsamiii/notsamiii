@@ -1,75 +1,91 @@
-# 👋 Hello, I'm Mohammed Abdul Sami
+# 👋 Hey there, I'm Mohammed Abdul Sami!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=true&width=600&lines=🚀+Innovator+by+heart;💡+Coding+is+my+superpower;🌌+Let's+create+the+future+together!" alt="Typing SVG">
+</p>
 
-🚀 **Software Developer | Data Analyst | Blockchain Enthusiast**  
+
+🚀 **Software Developer Intern | Data Analyst | Blockchain Enthusiast**  
+💡 *"Innovating, coding, and solving one challenge at a time!"*  
 🌟 B.Tech in Computer Science & Business Systems (2021 - 2025)  
-💡 Passionate about crafting innovative solutions, streamlining workflows, and exploring cutting-edge technologies.  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/notsamiii)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/notsamiii)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:mdasami.47@gmail.com)
 
 ---
 
-### 📈 GitHub Stats
+### 🌌 Welcome to My Digital Universe
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=notsamiii&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notsamiii&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsamiii&layout=compact&theme=radical" alt="Top Languages">
+  <img src="[https://user-images.githubusercontent.com/example/banner.gif](https://media.licdn.com/dms/image/v2/D5616AQGUB1mNP9smOw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735573232869?e=1742428800&v=beta&t=mmWYWTVU7I1lGQnnMjk3BpcUOKg5yItA3QEnvfaEL3Q)" alt="Aesthetic Banner" style="border-radius:10px;">
 </p>
 
 ---
 
-### 🌟 Key Projects
-- **[TravAIscott](https://github.com/notsamiii/travais)**  
-  *Technologies:* Angular, C#, ASP.NET Core  
-  AI-driven personalized platform for travel, music, food, and flights with seamless transactions.
-
-- **[PennySense](https://github.com/notsamiii/pennysense)**  
-  *Technologies:* MongoDB, Express.js, React.js, Node.js  
-  A financial dashboard enhancing budgeting adherence by 65%.
-
-- **Intrusion Detection System**  
-  *Technologies:* Machine Learning, Python  
-  Achieved 99.05% accuracy for detecting intrusions using the KDD99 dataset.
-
-- **Blockchain-Based Certificate System**  
-  *Technologies:* Ethereum, IPFS, MetaMask  
-  Validated certificates with 90% transaction throughput and high reliability.
+### 🔭 What I'm Currently Exploring
+🌐 Building intuitive platforms that blend **AI**, **Blockchain**, and **Web Development**.  
+💻 Fine-tuning performance on **TravAIscott**—an AI-driven travel concierge.  
+📚 Diving deeper into **Machine Learning** and **Data Analytics** to create impactful solutions.
 
 ---
 
-### 🛠️ Technical Skills
-#### Languages:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+### 🚀 My Cosmic Toolkit
+#### 🛠 Languages & Frameworks
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Blockchain](https://img.shields.io/badge/-Blockchain-3C3C3D?style=flat-square&logo=ethereum)
 
-#### Frameworks & Tools:
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs)
-![Blockchain](https://img.shields.io/badge/-Blockchain-3C3C3D?style=flat&logo=ethereum)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud)
-
-#### Databases:
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)
+#### 🌐 Platforms & Tools
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 
 ---
 
-### 🎯 Achievements
-- **Google Cloud Computing Certified**  
-- Published a paper on *Blockchain Certificate Authentication* at an IEEE Conference.  
-- Secured 1st position at *Ideathon 2023* among 1500+ participants.  
-- Organized *Design-a-thon* and co-organized *TEDxVNRVJIET*.  
+### 🎬 My Highlight Reel
+
+💡 **TravAIscott** *(Ongoing)*  
+*Technologies:* Angular, C#, ASP.NET Core  
+- A cloud-native AI travel concierge for personalized experiences.  
+
+💸 **PennySense**  
+*Technologies:* React, MongoDB, Node.js  
+- Enhanced budgeting adherence by **65%** with an intuitive financial platform.
+
+🛡 **Intrusion Detection System**  
+*Technologies:* Python, Machine Learning  
+- Achieved **99.05% accuracy** in detecting intrusions with the KDD99 dataset.
+
+🔗 **Blockchain Certificate System**  
+*Technologies:* Ethereum, IPFS  
+- Boosted throughput by **90%** with a scalable blockchain-based validation system.
 
 ---
 
-### 📬 Contact Me
+### 🏆 Highlights & Achievements
+
+🎖️ **Google Cloud Certified**  
+📜 Published in *IEEE* for Blockchain Authentication  
+🥇 **1st Place at Ideathon 2023** – Among 1500+ participants!  
+🎨 Co-organized *TEDxVNRVJIET* & Designed visuals for global startups.
+
+---
+
+### 🌟 Fun Visuals
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=true&width=600&lines=🚀+Innovator+by+heart;💡+Coding+is+my+superpower;🌌+Let's+create+the+future+together!" alt="Typing SVG">
+</p>
+
+---
+
+### ✉️ Let's Connect!
 📧 **Email:** [mdasami.47@gmail.com](mailto:mdasami.47@gmail.com)  
-🌐 **Portfolio:** [github.com/notsamiii](https://github.com/notsamiii)
+🌐 **Portfolio:** [github.com/notsamiii](https://github.com/notsamiii)  
+🤝 **LinkedIn:** [linkedin.com/in/notsamiii](https://linkedin.com/in/notsamiii)
 
 ---
 
-✨ Let's build something amazing together! ✨
+### ✨ Closing Quote
+*"Every line of code brings us closer to shaping the world we imagine."*  
+Let’s **code, collaborate, and create** something extraordinary!
+
+---
+
